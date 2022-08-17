@@ -1,0 +1,111 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: 'Montserrat', sans-serif; 
+	text-align: center;
+}
+
+/* quienes somos */
+h1{
+    font-family: 'Montserrat', sans-serif;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    font-size: 90px;
+    color: #1e272e;
+}
+.contenedor2 {
+    margin: 7%;
+    padding: 3%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    }
+
+ /* sol */
+.interlineado{
+    justify-content: center;
+    display: flex; 
+}
+
+/* Tribu MJ */
+.latribu{
+    padding: 2%;
+    background-color: black;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+    color: palevioletred;
+    text-align: center;
+    align-items: center;
+    
+}
+.parrafolatribu{
+    color: white;
+    font-size: 23px;
+    margin: 10px;
+   
+}
+.letratribu{
+    font-size: 80px;
+}
+.ideologia{
+font-family: 'Montserrat', sans-serif; 
+color: palevioletred;
+background-color: black;
+margin: 0;
+padding: 0;
+}
+.letraideologia{
+    font-size: 90px;
+    text-align: center;
+    align-items: center;
+}
+.parrafoideologia{
+    margin: 1%;
+    padding: 3%;
+    color: white;
+    font-size: 23px;
+    text-align: center;
+    align-items: center;
+}
+.interlineado2{
+    justify-content: center;
+    display: flex; 
+    background-color: black;
+    padding: 3%;
+    margin: 0;
+}
+.interlineado3{
+    font-family: 'Montserrat', sans-serif;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    font-size: 50px;
+    color: #1e272e;
+}
+.elcarrete{
+    background-color: black;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif; 
+    color: white;
+    font-size: 10px;
+}
+.titulojeans{
+    font-size: 90px;
+    color: palevioletred;
+}
+.textoselloblanco{
+    font-size: 14px;
+}
+.finalpagina{
+    margin-inline: 0px;
+    background-color: black;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    padding: 3%;
+    font-size: 16px;
+}
